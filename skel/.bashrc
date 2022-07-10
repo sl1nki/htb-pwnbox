@@ -106,13 +106,7 @@ fi
 alias ll='ls -lh'
 alias la='ls -lha'
 alias l='ls -CF'
-alias em='emacs -nw'
 alias dd='dd status=progress'
-alias _='sudo'
-alias _i='sudo -i'
-alias please='sudo'
-alias fucking='sudo'
-alias chuck_norris_says='sudo'
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
