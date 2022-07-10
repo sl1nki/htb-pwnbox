@@ -17,4 +17,4 @@ Copy the contents of `skel` to `/etc/skel` (if you want to apply this to your us
 
 Load the dconf configuration file `htb-user-desktop.conf` with `dconf load / < htb-user-desktop.conf` as your desired user.
 
-NOTE: This assumes you have all the packages installed that HTB's pwnbox has. Some of the above relies on this. For example. `applications` has an entry for Plank, which is not installed by default. Some of these have icons in /opt that are installed with the package themselves, for example Postman.
+NOTE: This assumes you have all the packages installed that HTB's pwnbox has. Some of the above relies on this. For example. `applications` has an entry for Plank, which is not installed by default. Some of these have icons in /opt that are installed with the package themselves.
