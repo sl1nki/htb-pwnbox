@@ -7,6 +7,6 @@ Terminal=false
 Icon=/usr/share/icons/htb/obsidian.png
 Icon[en_US]=/usr/share/icons/htb/obsidian.png
 Name[en_US]=Obsidian
-Exec=/usr/bin/obsidian
+Exec=/usr/bin/env obsidian
 Name=Obsidian
 Categories=Development;
