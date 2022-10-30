@@ -1,0 +1,10 @@
+[Unit]
+Description=Plank
+
+[Service]
+ExecStart=/usr/bin/plank
+RestartSec=3
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

@@ -2,8 +2,7 @@
 Description=Plank
 
 [Service]
-ExecStart=/usr/bin/plank
-KillMode=process
+ExecStart=/usr/local/bin/xeventbind resolution /opt/restart_plank.sh
 RestartSec=3
 Restart=always
 
